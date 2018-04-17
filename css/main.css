@@ -1,0 +1,50 @@
+.div {
+  background-color: tomato;
+  color: white;
+  border: 20px solid black;
+  padding: 50px;
+  margin: 50px;
+}
+
+body {
+  margin: 0;
+
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 85px;
+  text-transform: uppercase;
+}
+
+a {
+  color:black;
+  text-decoration: underline;
+}
+
+.main,
+.sidebar {
+  float: left;
+}
+
+.main {
+  width: 30%;
+  background: white;
+  color: black;
+}
+.sidebar {
+width: 30%;
+background: grey;
+}
+.img2 {
+  width: 50%;
+  height: 50%;
+
+}
+ #about,
+ .main,
+ .sidebar {
+
+
+
+ }
